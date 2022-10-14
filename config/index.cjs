@@ -25,7 +25,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'LLHxCKk8x5P2qPa339t-2SoeFeXv3ap-gJUeMEzuXj0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '01-26',
+      horoscopeDate: '12-14',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -48,7 +48,7 @@ const USER_CONFIG = {
       ],
     },
     {
-      LITERARY_PREFERENCE: '',
+      LITERARY_PREFERENCE: '依旧是鹏鹏爱倩倩的一天',
     }
   ],
 
