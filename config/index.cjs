@@ -47,6 +47,9 @@ const USER_CONFIG = {
         { keyword: 'marry_day', date: '2024-06-06' },
       ],
     },
+    {
+      LITERARY_PREFERENCE: '',
+    }
   ],
 
 
