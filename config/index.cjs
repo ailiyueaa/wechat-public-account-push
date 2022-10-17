@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '8f6ab010e9ba422c91be1663c10f287c',
 
   PROVINCE: '太原',
-  CITY: '清徐',
+  CITY: '尖草坪区',
 
   USERS: [
     {
@@ -25,11 +25,11 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'de9gfGlXxdVub7OOie9EekwzNiZoQ4dGP58W_UAXOl0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-14',
+      horoscopeDate: '04-02',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '悦悦', year: '2002', date: '12-14',
+          type: '*生日', name: '悦悦', year: '2002', date: '02-20',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
